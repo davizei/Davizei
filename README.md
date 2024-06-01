@@ -1,7 +1,15 @@
 ## Salve galerinha segue meu perfil ai 🇧🇷
-estou estudando no alura 
 
-estou fazendo uns projetinhos do javaScript
+Meu nome é Davi Muniz 
 
-utilizo esse espaço para a minha organização e compartilhamento dos meus projetinhos 
-!https://tenor.com/pt-PT/view/harambe-america-murica-flag-waving-gif-17339298
+Estou fazendo o Alura 
+Estou  Fzendo uns Projetinhos no JavaScript
+Utilizo esse espaço para os meus projetinhos do Alura
+
+## segue no insta 
+
+davisao007
+
+
+
+![](https://media1.tenor.com/m/YOvMWISxpzUAAAAC/santai.gif)
