@@ -2,8 +2,8 @@
 
 - Meu nome é Davi Muniz 
 - Estou fazendo o Alura 
-- Estou  Fzendo uns Projetinhos no JavaScript
-- Utilizo esse espaço para os meus projetinhos do Alura
+- Estou  Fazendo uns Projetinhos no JavaScript
+- Utilizo esse espaço para as minhas organizações de projetos 
 
 ## segue no insta 
 
